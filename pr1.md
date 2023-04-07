@@ -1,5 +1,7 @@
 Всем привет! Разбираемся с GIT 
 
+![ва](https://git-scm.com/images/logo@2x.png)
+
 [Документация](https://git-scm.com/docs)
 
 **Клонирование и создание репозиториев**
@@ -15,6 +17,8 @@
 **Основные команды**
 
 Всего несколько команд нужно для базового варианта использования Git для ведения истории изменений.
+
+![](https://cloudstudio.com.au/wp-content/uploads/2021/06/GitWorkflow-4-768x495.png)
 
 [**git add**](https://git-scm.com/docs/git-add)
 
