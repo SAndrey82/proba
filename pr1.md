@@ -1,6 +1,6 @@
 Всем привет! Разбираемся с GIT 
 
-![ва](https://git-scm.com/images/logo@2x.png)
+![](https://git-scm.com/images/logo@2x.png)
 
 [Документация](https://git-scm.com/docs)
 
